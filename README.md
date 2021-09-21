@@ -1,0 +1,2 @@
+# wsn
+projek gaess wsn
